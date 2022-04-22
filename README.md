@@ -11,4 +11,4 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosuMonkeyManiak)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GosuMonkeyManiak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
