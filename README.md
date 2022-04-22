@@ -21,7 +21,7 @@
 
 | Course | Certificate |
 | ------ | ----------- |
-
+| Programming Basics with C# | [Certificate](https://softuni.bg/certificates/details/81554/e538bc8e) |
 ---
 
 <img aling="left" alt="GosuMonkeyManiak's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=GosuMonkeyManiak&show_icons=true" />
