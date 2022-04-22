@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-[<img alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:15px !important;" />][visualStudio]
+[<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:15px !important;" />][visualStudio]
 [<img aling="left" alt="CSharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:15px !important;" />][CSharp]
 [<img aling="left" alt="DotNet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:15px !important;" />][DotNet]
 [<img aling="left" alt="SQL Server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:15px !important;" />][SQLServer]
