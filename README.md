@@ -14,7 +14,7 @@
 ### Languages and Tools:
 
 [<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />][visualStudio]
-[<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][]
+[<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][CSharp]
 [<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />][]
 [<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />][]
 [<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />][]
@@ -27,3 +27,4 @@
 
 
 [visualStudio]: https://visualstudio.microsoft.com/
+[CSharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
