@@ -1,7 +1,7 @@
 ### Hi there, I'm Dimitar - aka GosuMonkeyManiak 👋
 
 - 🌱 I’m currently learning [<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][Docker].
-- 👯 I’m looking to collaborate on new interesting project.
+- 👯 I’m looking to collaborate on new interesting projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/GosuMonkey)
 - ⚡ Fun fact: I love to play video games and basketball!
 
