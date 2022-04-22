@@ -1,4 +1,4 @@
-### Hi there, I'm Dimitar - aka GosuMonkeyManiak 👋
+### Hi there, I'm Dimitar student in SoftUni studying C# - aka GosuMonkeyManiak 👋
 
 - 🌱 I’m currently learning [<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][Docker].
 - 👯 I’m looking to collaborate on new interesting projects.
