@@ -19,7 +19,7 @@
 [<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />][SQLServer]
 [<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />][Redis]
 [<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][Git]
-[<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][]
+[<img aling="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][GitHub]
 
 ---
 
@@ -32,3 +32,4 @@
 [SQLServer]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 [Redis]: https://redis.io/
 [Git]: https://git-scm.com/
+[GitHub]: https://github.com/
