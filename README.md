@@ -26,4 +26,4 @@
 <img aling="left" alt="GosuMonkeyManiak's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=GosuMonkeyManiak&show_icons=true" />
 
 
-[visualStudio] : https://visualstudio.microsoft.com/
+[visualStudio]: https://visualstudio.microsoft.com/
