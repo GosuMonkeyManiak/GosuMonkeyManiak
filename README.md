@@ -19,19 +19,6 @@
 
 ---
 
-| Course | Certificate |
-| ------ | ----------- |
-| Programming Basics with C# | [Certificate](https://softuni.bg/certificates/details/81554/e538bc8e) |
-| Programming Fundamentals with C# | [Certificate](https://softuni.bg/certificates/details/96529/1a450bb3) |
-| C# Advanced | [Certificate](https://softuni.bg/certificates/details/98159/24817397) |
-| C# OOP | [Certificate](https://softuni.bg/certificates/details/104305/83c27832) |
-| MS SQL Server | [Certificate](https://softuni.bg/certificates/details/113884/1bbc58cd) |
-| Entity Framework Core | [Certificate](https://softuni.bg/certificates/details/119106/ba422f2e) |
-| C# Web Basics | [Certificate](https://softuni.bg/certificates/details/126347/c86b7a91) |
-| ASP.NET Core | [Certificate](https://softuni.bg/certificates/details/132607/f8eae3b9) |
-
----
-
 <img aling="left" alt="GosuMonkeyManiak's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=GosuMonkeyManiak&show_icons=true" />
 
 
